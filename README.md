@@ -36,4 +36,4 @@ The project includes detailed visualizations and insights to highlight major fin
 ## 🚀 How to Run the Project
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yazan-abualrub/olympic-athletic-analysis.git
+   git clone https://github.com/yazan-abualrub/Olympic-Athletic-Events-Data-Analysis.git
