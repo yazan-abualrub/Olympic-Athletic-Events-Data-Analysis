@@ -1,5 +1,3 @@
-# Olympic-Athletic-Events-Data-Analysis
-An analytical study of Olympic athletic data using pandas, seaborn, and matplotlib to reveal performance insights across countries and years.
 # 🏅 Olympic Athletic Events Data Analysis
 
 This project focuses on exploring and analyzing data from Olympic athletic events to uncover performance trends, participation patterns, and medal statistics across different nations and years.
